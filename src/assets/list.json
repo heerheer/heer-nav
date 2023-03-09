@@ -88,6 +88,7 @@
   },
   {
     "category": "Programming",
+    "tags": [],
     "sites": [
       {
         "name": "Deno",
@@ -98,6 +99,7 @@
   },
   {
     "category": "Serverless/Cloud/Database Platform",
+    "tags": [],
     "sites": [
       {
         "name": "Deno Deploy",
@@ -149,6 +151,7 @@
   },
   {
     "category": "Free Resources",
+    "tags": [],
     "sites": [
       {
         "name": "MyFreeMP3",

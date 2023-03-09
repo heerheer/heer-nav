@@ -4,11 +4,11 @@ import SearchBar from "./components/search-bar.vue";
 import LogoHeader from "./components/logo-header.vue";
 import NavList from "./components/nav-list.vue";
 
-const navList = ref<NavList>(null)
+const navList = ref<any>()
 
 
 const updateList = (search: string) => {
-  console.log("searched",search)
+  console.log("searched", search)
   navList.value.updateFilter(search)
 }
 </script>
