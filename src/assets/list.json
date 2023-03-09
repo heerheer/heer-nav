@@ -1,0 +1,170 @@
+[
+  {
+    "category": "AI Tools",
+    "tags": [
+      "AI",
+      "Chat GPT",
+      "人工智能",
+      "工具"
+    ],
+    "sites": [
+      {
+        "name": "BAI Chat",
+        "desc": "Free Website powered by GPT-3.5 API.",
+        "url": "https://chat.theb.ai/"
+      },
+      {
+        "name": "Poe",
+        "desc": "A platform that lets people ask questions with AI.",
+        "url": "https://poe.com/"
+      },
+      {
+        "name": "Weekly Report",
+        "desc": "Generate weekly report with simple description.",
+        "url": "https://weeklyreport.avemaria.fun/zh"
+      },
+      {
+        "name": "Chat Excel",
+        "desc": "Chat and modify your excel.",
+        "url": "https://chatexcel.com/"
+      }
+    ]
+  },
+  {
+    "category": "Frontend UI and Design",
+    "tags": [
+      "UI",
+      "前端",
+      "工具"
+    ],
+    "sites": [
+      {
+        "name": "Simple Logo Generator",
+        "desc": "Create favicon and logo with Font Awesome",
+        "url": "https://creecros.github.io/simple_logo_gen/"
+      },
+      {
+        "name": "Font Awesome",
+        "desc": "Google Font Awesome!",
+        "url": "https://fontawesome.com/icons"
+      },
+      {
+        "name": "Font Awesome Lib",
+        "desc": "Third Part Font Awesome Lib (And..You can download pro version!)",
+        "url": "https://fontawesomelib.com/"
+      },
+      {
+        "name": "Tailwind CSS Document",
+        "desc": "My fav: Tailwind CSS!",
+        "url": "https://tailwindcss.com/docs/"
+      },
+      {
+        "name": "Tailwind Elements",
+        "desc": "Some elements created by Tailwind CSS",
+        "url": "https://tailwind-elements.com/docs"
+      },
+      {
+        "name": "Undraw",
+        "desc": "Free illustration!",
+        "url": "https://undraw.co/illustrations"
+      },
+      {
+        "name": "Easing Functions",
+        "desc": "Helps you choose the right easing function.",
+        "url": "https://easings.net/"
+      }
+    ]
+  },
+  {
+    "category": "Develop Utilities",
+    "tags": [],
+    "sites": [
+      {
+        "name": "Json Placeholder",
+        "desc": "Fake json placeholder",
+        "url": "https://jsonplaceholder.typicode.com/"
+      }
+    ]
+  },
+  {
+    "category": "Programming",
+    "sites": [
+      {
+        "name": "Deno",
+        "desc": "The easiest, most secure JavaScript runtime.",
+        "url": "https://deno.land/"
+      }
+    ]
+  },
+  {
+    "category": "Serverless/Cloud/Database Platform",
+    "sites": [
+      {
+        "name": "Deno Deploy",
+        "desc": "Serverless JavaScript hosting with zero config, worldwide.",
+        "url": "https://deno.com/deploy"
+      },
+      {
+        "name": "4EVERLAND",
+        "desc": "Build a Web3 application easily, efficiently, and cost-effectively on 4EVERLAND",
+        "url": "https://4everland.org/"
+      },
+      {
+        "name":"Cockroach Labs",
+        "desc": "Build what you dream.",
+        "url": "https://cockroachlabs.cloud/"
+      },
+      {
+        "name":"Cockroach Labs",
+        "desc": "Build what you dream.",
+        "url": "https://cockroachlabs.cloud/"
+      }
+    ]
+  },
+  {
+    "category": "Work and Study Tool",
+    "tags": [],
+    "sites": [
+      {
+        "name": "TJUT Ehall",
+        "desc": "My college's ehall",
+        "url": "http://ehall.tjut.edu.cn/new/index.html"
+      },
+      {
+        "name": "Draw.io",
+        "desc": "Draw diagrams!",
+        "url": "https://draw.io/"
+      },
+      {
+        "name": "Excalidraw",
+        "desc": "Hand-draw look and feel : diagram tool",
+        "url": "http://excalidraw.com/"
+      },
+      {
+        "name": "PanDownload(MCHZB)",
+        "desc": "A site powered by baiduwp-php, and MCHZB",
+        "url": "https://pan.mchzb.com/"
+      }
+    ]
+  },
+  {
+    "category": "Free Resources",
+    "sites": [
+      {
+        "name": "MyFreeMP3",
+        "desc": "Free mp3 toolbox!",
+        "url": "https://tool.liumingye.cn/music/#/"
+      },
+      {
+        "name": "Z-Helper",
+        "desc": "zhelper search!",
+        "url": "https://search.zhelper.net"
+      },
+      {
+        "name": "ZLib",
+        "desc": "Search your book with z-lib",
+        "url": "https://zlib.app/"
+      }
+    ]
+  }
+]

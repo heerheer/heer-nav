@@ -1,11 +1,13 @@
 <script setup lang="ts">
-import HomePage from './pages/HomePage.vue';
+import HomePage from './pages/home/HomePage.vue';
 
 
 </script>
 
 <template>
-<HomePage></HomePage>
+  <HomePage>
+  </HomePage>
+
 </template>
 
 <style scoped></style>
