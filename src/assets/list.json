@@ -112,14 +112,24 @@
         "url": "https://4everland.org/"
       },
       {
-        "name":"Cockroach Labs",
+        "name": "Cockroach Labs",
         "desc": "Build what you dream.",
         "url": "https://cockroachlabs.cloud/"
       },
       {
-        "name":"Cockroach Labs",
+        "name": "Cockroach Labs",
         "desc": "Build what you dream.",
         "url": "https://cockroachlabs.cloud/"
+      },
+      {
+        "name": "Railway",
+        "desc": "Railway is a cloud platform for deploying and managing backend services, such as APIs and databases.",
+        "url": "https://railway.app/"
+      },
+      {
+        "name":"Render",
+        "desc": "Render.com is a cloud platform for hosting and scaling web applications.",
+        "url": "https://dashboard.render.com/"
       }
     ]
   },
