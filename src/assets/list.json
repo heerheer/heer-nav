@@ -27,6 +27,11 @@
         "name": "Chat Excel",
         "desc": "Chat and modify your excel.",
         "url": "https://chatexcel.com/"
+      },
+      {
+        "name":"Room GPT",
+        "desc":"Generate your room in your dream with GPT",
+        "url":"https://www.roomgpt.io/"
       }
     ]
   },
