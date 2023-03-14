@@ -16,7 +16,7 @@ const updateList = (search: string) => {
 <template>
   <div class="flex flex-col">
     <div class="w-full  py-3.5 px-6 flex justify-center items-center flex-col">
-      <logo-header class="hidden sm:block"/>
+      <logo-header class="hidden sm:block sm:my-3.5"/>
       <div class="h-2.5"></div>
       <div class="w-full flex justify-center items-center">
         <search-bar @searched="updateList"/>
