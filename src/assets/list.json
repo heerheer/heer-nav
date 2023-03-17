@@ -107,6 +107,22 @@
     "tags": [],
     "sites": [
       {
+        "name":"Cyclic.sh",
+        "desc":"Revolutionary automated infrastructure management platform.",
+        "url":"https://www.cyclic.sh/"
+      },
+      {
+        "name":"koyeb",
+        "desc":"The fastest way to deploy applications globally.",
+        "url":"https://www.koyeb.com/"
+      },
+      
+      {
+        "name":"IBM Cloud Functions",
+        "desc":"",
+        "url":"https://cloud.ibm.com/functions/"
+      },
+      {
         "name": "Deno Deploy",
         "desc": "Serverless JavaScript hosting with zero config, worldwide.",
         "url": "https://deno.com/deploy"
