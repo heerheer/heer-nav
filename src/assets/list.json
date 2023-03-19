@@ -88,6 +88,11 @@
         "name": "Json Placeholder",
         "desc": "Fake json placeholder",
         "url": "https://jsonplaceholder.typicode.com/"
+      },
+      {
+      "name":"phind",
+        "desc":"AI Search Engine for developer",
+        "url":"https://www.phind.com/"
       }
     ]
   },
