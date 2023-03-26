@@ -32,6 +32,11 @@
         "name":"Room GPT",
         "desc":"Generate your room in your dream with GPT",
         "url":"https://www.roomgpt.io/"
+      },
+      {
+        "name":"Leonardo.ai",
+        "desc":"Leonardo.ai!",
+        "url":"https://app.leonardo.ai/"
       }
     ]
   },
