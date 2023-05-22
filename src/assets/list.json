@@ -49,8 +49,18 @@
     ],
     "sites": [
       {
+        "name":"BGJar",
+        "desc":"生成简洁的SVG背景",
+        "url":"https://bgjar.com/"
+      },
+      {
+        "name":"Avabucks UI组件/社区",
+        "desc":"包含使用HTML与CSS构建的前端组件，同时包含社区提供了大量的上传的组件供参考",
+        "url":"https://avabucks.it/"
+      },
+      {
         "name": "Simple Logo Generator",
-        "desc": "Create favicon and logo with Font Awesome",
+        "desc": "使用Awesome图标，创建你的Facicon和Logo",
         "url": "https://creecros.github.io/simple_logo_gen/"
       },
       {
@@ -75,19 +85,19 @@
       },
       {
         "name": "Undraw",
-        "desc": "Free illustration!",
+        "desc": "免费开源的插图！",
         "url": "https://undraw.co/illustrations"
       },
       {
         "name": "Easing Functions",
-        "desc": "Helps you choose the right easing function.",
+        "desc": "选择缓动函数动画、",
         "url": "https://easings.net/"
       }
     ]
   },
   {
     "category": "Develop Utilities",
-    "tags": [],
+    "tags": [ ],
     "sites": [
       {
         "name": "Json Placeholder",
