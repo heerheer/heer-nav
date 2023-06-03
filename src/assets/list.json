@@ -37,6 +37,11 @@
         "name":"Leonardo.ai",
         "desc":"Leonardo.ai!",
         "url":"https://app.leonardo.ai/"
+      },
+      {
+        "name":"Vectorizer.AI",
+        "desc":"将任何图片通过AI转换成矢量图!",
+        "url":"https://vectorizer.ai/"
       }
     ]
   },
