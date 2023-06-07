@@ -129,7 +129,13 @@
         "name": "Deno",
         "desc": "The easiest, most secure JavaScript runtime.",
         "url": "https://deno.land/"
+      },
+      {
+        "name": "谷歌代码风格指南",
+        "desc": "各种代码的风格规范指南。",
+        "url": "https://zh-google-styleguide.readthedocs.io/en/latest/contents/"
       }
+      
     ]
   },
   {
