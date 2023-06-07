@@ -42,6 +42,11 @@
         "name":"Vectorizer.AI",
         "desc":"将任何图片通过AI转换成矢量图!",
         "url":"https://vectorizer.ai/"
+      },
+      {
+        "name":"Poet",
+        "url":"https://poet.so/",
+        "desc":"推特截图小工具~"
       }
     ]
   },
