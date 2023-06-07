@@ -228,6 +228,11 @@
         "name": "ZLib",
         "desc": "Search your book with z-lib",
         "url": "https://zlib.app/"
+      },
+      {
+        "name": "顽狗音乐",
+        "desc": "免费音乐网站！",
+        "url": "https://music.dogged.cn/"
       }
     ]
   }
