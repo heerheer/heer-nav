@@ -1,12 +1,7 @@
 [
   {
     "category": "AI Tools",
-    "tags": [
-      "AI",
-      "Chat GPT",
-      "人工智能",
-      "工具"
-    ],
+    "tags": ["AI", "Chat GPT", "人工智能", "工具"],
     "sites": [
       {
         "name": "BAI Chat",
@@ -29,44 +24,40 @@
         "url": "https://chatexcel.com/"
       },
       {
-        "name":"Room GPT",
-        "desc":"Generate your room in your dream with GPT",
-        "url":"https://www.roomgpt.io/"
+        "name": "Room GPT",
+        "desc": "Generate your room in your dream with GPT",
+        "url": "https://www.roomgpt.io/"
       },
       {
-        "name":"Leonardo.ai",
-        "desc":"Leonardo.ai!",
-        "url":"https://app.leonardo.ai/"
+        "name": "Leonardo.ai",
+        "desc": "Leonardo.ai!",
+        "url": "https://app.leonardo.ai/"
       },
       {
-        "name":"Vectorizer.AI",
-        "desc":"将任何图片通过AI转换成矢量图!",
-        "url":"https://vectorizer.ai/"
+        "name": "Vectorizer.AI",
+        "desc": "将任何图片通过AI转换成矢量图!",
+        "url": "https://vectorizer.ai/"
       },
       {
-        "name":"Poet",
-        "url":"https://poet.so/",
-        "desc":"推特截图小工具~"
+        "name": "Poet",
+        "url": "https://poet.so/",
+        "desc": "推特截图小工具~"
       }
     ]
   },
   {
     "category": "Frontend UI and Design",
-    "tags": [
-      "UI",
-      "前端",
-      "工具"
-    ],
+    "tags": ["UI", "前端", "工具"],
     "sites": [
       {
-        "name":"BGJar",
-        "desc":"生成简洁的SVG背景",
-        "url":"https://bgjar.com/"
+        "name": "BGJar",
+        "desc": "生成简洁的SVG背景",
+        "url": "https://bgjar.com/"
       },
       {
-        "name":"Avabucks UI组件/社区",
-        "desc":"包含使用HTML与CSS构建的前端组件，同时包含社区提供了大量的上传的组件供参考",
-        "url":"https://avabucks.it/"
+        "name": "Avabucks UI组件/社区",
+        "desc": "包含使用HTML与CSS构建的前端组件，同时包含社区提供了大量的上传的组件供参考",
+        "url": "https://avabucks.it/"
       },
       {
         "name": "Simple Logo Generator",
@@ -107,7 +98,7 @@
   },
   {
     "category": "Develop Utilities",
-    "tags": [ ],
+    "tags": [],
     "sites": [
       {
         "name": "Json Placeholder",
@@ -115,9 +106,9 @@
         "url": "https://jsonplaceholder.typicode.com/"
       },
       {
-      "name":"phind",
-        "desc":"AI Search Engine for developer",
-        "url":"https://www.phind.com/"
+        "name": "phind",
+        "desc": "AI Search Engine for developer",
+        "url": "https://www.phind.com/"
       }
     ]
   },
@@ -135,7 +126,6 @@
         "desc": "各种代码的风格规范指南。",
         "url": "https://zh-google-styleguide.readthedocs.io/en/latest/contents/"
       }
-      
     ]
   },
   {
@@ -143,20 +133,20 @@
     "tags": [],
     "sites": [
       {
-        "name":"Cyclic.sh",
-        "desc":"Revolutionary automated infrastructure management platform.",
-        "url":"https://www.cyclic.sh/"
+        "name": "Cyclic.sh",
+        "desc": "Revolutionary automated infrastructure management platform.",
+        "url": "https://www.cyclic.sh/"
       },
       {
-        "name":"koyeb",
-        "desc":"The fastest way to deploy applications globally.",
-        "url":"https://www.koyeb.com/"
+        "name": "koyeb",
+        "desc": "The fastest way to deploy applications globally.",
+        "url": "https://www.koyeb.com/"
       },
-      
+
       {
-        "name":"IBM Cloud Functions",
-        "desc":"",
-        "url":"https://cloud.ibm.com/functions/"
+        "name": "IBM Cloud Functions",
+        "desc": "",
+        "url": "https://cloud.ibm.com/functions/"
       },
       {
         "name": "Deno Deploy",
@@ -184,7 +174,7 @@
         "url": "https://railway.app/"
       },
       {
-        "name":"Render",
+        "name": "Render",
         "desc": "Render.com is a cloud platform for hosting and scaling web applications.",
         "url": "https://dashboard.render.com/"
       }
@@ -239,6 +229,19 @@
         "name": "顽狗音乐",
         "desc": "免费音乐网站！",
         "url": "https://music.dogged.cn/"
+      }
+    ]
+  },
+  {
+    "category": "Just For Fun",
+    "tags": ["sex", "4fun", "enjoy"],
+    "sites": [
+      {
+        "name": "赫尔:Just4Fun",
+        "desc": "基于Onedrive与SharePoint的网盘分享，但某种意义上也是一个色色网站。",
+        "url": "/heer_just4fun",
+        "encrypted": true,
+        "encrypted_url": "U2FsdGVkX1/emaN6d0ClMA6NBpqP9gQCvmEaWX3NR7hj5N4nZOWvLCzJaYIk+cL/tXsYI6KPniuc+5YmbTwnfsz8ZrCp80idODiB0TD5V+Ifj8dfba4puj/YbA42r5WSgdUr1u1pGo8L9UwqoePW7P6y2c7hNUeWuvmFvUnXy5B8UR9nYhnnJzAECSyu8VxT"
       }
     ]
   }

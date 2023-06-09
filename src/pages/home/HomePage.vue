@@ -20,7 +20,6 @@ const updateList = (search: string) => {
       <div class="h-2.5"></div>
       <div class="w-full flex justify-center items-center">
         <search-bar @searched="updateList"/>
-
       </div>
       <div class="h-2.5"></div>
       <nav-list ref="navList"/>
@@ -29,4 +28,4 @@ const updateList = (search: string) => {
 </template>
 
 
-<style scoped></style>
+<style scoped></style> 

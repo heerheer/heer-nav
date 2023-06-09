@@ -7,9 +7,15 @@
     src: url('./assets/Righteous-Regular.ttf');
 }
 
+@font-face {
+    font-family: 'ZCOOLKuaiLe';
+    src: url('./assets/ZCOOLKuaiLe-Regular.ttf');
+}
+
+
 @layer base {
     html {
-        font-family: Righteous, Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+        font-family: Righteous,ZCOOLKuaiLe , Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
     }
 }
 :root {
