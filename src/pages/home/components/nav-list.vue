@@ -61,7 +61,7 @@
 import data from "@/assets/list.json";
 import { NavCategory, NavSite } from "@/types";
 import LazyImg from "@/components/lazy-img.vue";
-import modal from "../components/modal.vue";
+import modal from "./encrypted-modal.vue";
 import { reactive, ref } from "vue";
 import Cat from "@/components/illustration/Cat.vue";
 import { AES ,enc} from "crypto-ts";
