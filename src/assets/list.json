@@ -4,6 +4,11 @@
     "tags": ["AI", "Chat GPT", "人工智能", "工具"],
     "sites": [
       {
+        "name": "AI工具集合",
+        "desc": "集合网站",
+        "url": "https://ai-bot.cn/"
+      },
+      {
         "name": "BAI Chat",
         "desc": "Free Website powered by GPT-3.5 API.",
         "url": "https://chat.theb.ai/"
