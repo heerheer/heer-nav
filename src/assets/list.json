@@ -1,103 +1,198 @@
 [
   {
     "category": "AI Tools",
-    "tags": ["AI", "Chat GPT", "人工智能", "工具"],
+    "tags": [
+      "AI",
+      "Chat GPT",
+      "人工智能",
+      "工具"
+    ],
     "sites": [
       {
         "name": "AI工具集合",
         "desc": "集合网站",
-        "url": "https://ai-bot.cn/"
+        "url": "https://ai-bot.cn/",
+        "tags": [
+          "AI",
+          "集合"
+        ]
+      },
+      {
+        "name": "Claude.ai",
+        "desc": "Claude is an AI assistant created by Anthropic to be helpful, harmless, and honest.",
+        "url": "https://claude.ai/",
+        "type": "website",
+        "tags": [
+          "AI",
+          "Assistant",
+          "Chatbot"
+        ]
       },
       {
         "name": "BAI Chat",
         "desc": "Free Website powered by GPT-3.5 API.",
-        "url": "https://chat.theb.ai/"
+        "url": "https://chat.theb.ai/",
+        "tags": [
+          "AI",
+          "Chat"
+        ]
       },
       {
         "name": "Poe",
         "desc": "A platform that lets people ask questions with AI.",
-        "url": "https://poe.com/"
+        "url": "https://poe.com/",
+        "tags": [
+          "AI",
+          "Chat"
+        ]
       },
       {
         "name": "Weekly Report",
         "desc": "Generate weekly report with simple description.",
-        "url": "https://weeklyreport.avemaria.fun/zh"
+        "url": "https://weeklyreport.avemaria.fun/zh",
+        "tags": [
+          "周报"
+        ]
       },
       {
         "name": "Chat Excel",
         "desc": "Chat and modify your excel.",
-        "url": "https://chatexcel.com/"
+        "url": "https://chatexcel.com/",
+        "tags": [
+          "Chat",
+          "表格",
+          "Excel"
+        ]
       },
       {
         "name": "Room GPT",
         "desc": "Generate your room in your dream with GPT",
-        "url": "https://www.roomgpt.io/"
+        "url": "https://www.roomgpt.io/",
+        "tags": [
+          "AI",
+          "装修",
+          "设计"
+        ]
       },
       {
         "name": "Leonardo.ai",
         "desc": "Leonardo.ai!",
-        "url": "https://app.leonardo.ai/"
+        "url": "https://app.leonardo.ai/",
+        "tags": [
+          "AI",
+          "AICG",
+          "绘图"
+        ]
       },
       {
         "name": "Vectorizer.AI",
         "desc": "将任何图片通过AI转换成矢量图!",
-        "url": "https://vectorizer.ai/"
+        "url": "https://vectorizer.ai/",
+        "tags": [
+          "AI",
+          "Image"
+        ]
       },
       {
         "name": "Poet",
         "url": "https://poet.so/",
-        "desc": "推特截图小工具~"
+        "desc": "推特截图小工具~",
+        "tags": [
+          "Twitter"
+        ]
       }
     ]
   },
   {
     "category": "Frontend UI and Design",
-    "tags": ["UI", "前端", "工具"],
+    "tags": [
+      "UI",
+      "前端",
+      "工具"
+    ],
     "sites": [
       {
         "name": "BGJar",
         "desc": "生成简洁的SVG背景",
-        "url": "https://bgjar.com/"
+        "url": "https://bgjar.com/",
+        "tags": [
+          "SVG",
+          "Background"
+        ]
       },
       {
         "name": "Avabucks UI组件/社区",
-        "desc": "包含使用HTML与CSS构建的前端组件，同时包含社区提供了大量的上传的组件供参考",
-        "url": "https://avabucks.it/"
+        "desc": "包含使用HTML与CSS构建的前端组件,同时包含社区提供了大量的上传的组件供参考",
+        "url": "https://avabucks.it/",
+        "tags": [
+          "UI",
+          "Components",
+          "Community"
+        ]
       },
       {
         "name": "Simple Logo Generator",
-        "desc": "使用Awesome图标，创建你的Facicon和Logo",
-        "url": "https://creecros.github.io/simple_logo_gen/"
+        "desc": "使用Awesome图标,创建你的Facicon和Logo",
+        "url": "https://creecros.github.io/simple\\_logo\\_gen/",
+        "tags": [
+          "Logo",
+          "Generator"
+        ]
       },
       {
         "name": "Font Awesome",
         "desc": "Google Font Awesome!",
-        "url": "https://fontawesome.com/icons"
+        "url": "https://fontawesome.com/icons",
+        "tags": [
+          "Font",
+          "Icons"
+        ]
       },
       {
         "name": "Font Awesome Lib",
         "desc": "Third Part Font Awesome Lib (And..You can download pro version!)",
-        "url": "https://fontawesomelib.com/"
+        "url": "https://fontawesomelib.com/",
+        "tags": [
+          "Font",
+          "Icons"
+        ]
       },
       {
         "name": "Tailwind CSS Document",
         "desc": "My fav: Tailwind CSS!",
-        "url": "https://tailwindcss.com/docs/"
+        "url": "https://tailwindcss.com/docs/",
+        "tags": [
+          "CSS",
+          "Tailwind"
+        ]
       },
       {
         "name": "Tailwind Elements",
         "desc": "Some elements created by Tailwind CSS",
-        "url": "https://tailwind-elements.com/docs"
+        "url": "https://tailwind-elements.com/docs",
+        "tags": [
+          "CSS",
+          "Tailwind",
+          "Elements"
+        ]
       },
       {
         "name": "Undraw",
-        "desc": "免费开源的插图！",
-        "url": "https://undraw.co/illustrations"
+        "desc": "免费开源的插图!",
+        "url": "https://undraw.co/illustrations",
+        "tags": [
+          "Illustrations",
+          "Free"
+        ]
       },
       {
         "name": "Easing Functions",
         "desc": "选择缓动函数动画、",
-        "url": "https://easings.net/"
+        "url": "https://easings.net/",
+        "tags": [
+          "Animation",
+          "Easing"
+        ]
       }
     ]
   },
@@ -106,20 +201,32 @@
     "tags": [],
     "sites": [
       {
-        
         "name": "RoadMap.sh",
-        "desc": "踏上旅途必备之品，强烈推荐的路线图网站！",
-        "url": "https://roadmap.sh/"
-      }
+        "desc": "踏上旅途必备之品,强烈推荐的路线图网站!",
+        "url": "https://roadmap.sh/",
+        "tags": [
+          "Roadmap",
+          "Learning"
+        ]
+      },
       {
         "name": "Json Placeholder",
         "desc": "Fake json placeholder",
-        "url": "https://jsonplaceholder.typicode.com/"
+        "url": "https://jsonplaceholder.typicode.com/",
+        "tags": [
+          "API",
+          "JSON"
+        ]
       },
       {
         "name": "phind",
         "desc": "AI Search Engine for developer",
-        "url": "https://www.phind.com/"
+        "url": "https://www.phind.com/",
+        "tags": [
+          "Search",
+          "AI",
+          "Developer"
+        ]
       }
     ]
   },
@@ -130,12 +237,20 @@
       {
         "name": "Deno",
         "desc": "The easiest, most secure JavaScript runtime.",
-        "url": "https://deno.land/"
+        "url": "https://deno.land/",
+        "tags": [
+          "JavaScript",
+          "Runtime"
+        ]
       },
       {
         "name": "谷歌代码风格指南",
         "desc": "各种代码的风格规范指南。",
-        "url": "https://zh-google-styleguide.readthedocs.io/en/latest/contents/"
+        "url": "https://zh-google-styleguide.readthedocs.io/en/latest/contents/",
+        "tags": [
+          "Style Guide",
+          "Coding"
+        ]
       }
     ]
   },
@@ -146,48 +261,77 @@
       {
         "name": "Cyclic.sh",
         "desc": "Revolutionary automated infrastructure management platform.",
-        "url": "https://www.cyclic.sh/"
+        "url": "https://www.cyclic.sh/",
+        "tags": [
+          "Infrastructure",
+          "Automation"
+        ]
       },
       {
         "name": "koyeb",
         "desc": "The fastest way to deploy applications globally.",
-        "url": "https://www.koyeb.com/"
+        "url": "https://www.koyeb.com/",
+        "tags": [
+          "Deployment",
+          "Hosting"
+        ]
       },
-
       {
         "name": "IBM Cloud Functions",
         "desc": "",
-        "url": "https://cloud.ibm.com/functions/"
+        "url": "https://cloud.ibm.com/functions/",
+        "tags": [
+          "Cloud",
+          "Serverless"
+        ]
       },
       {
         "name": "Deno Deploy",
         "desc": "Serverless JavaScript hosting with zero config, worldwide.",
-        "url": "https://deno.com/deploy"
+        "url": "https://deno.com/deploy",
+        "tags": [
+          "Hosting",
+          "JavaScript",
+          "Serverless"
+        ]
       },
       {
         "name": "4EVERLAND",
         "desc": "Build a Web3 application easily, efficiently, and cost-effectively on 4EVERLAND",
-        "url": "https://4everland.org/"
+        "url": "https://4everland.org/",
+        "tags": [
+          "Web3",
+          "Blockchain"
+        ]
       },
       {
         "name": "Cockroach Labs",
         "desc": "Build what you dream.",
-        "url": "https://cockroachlabs.cloud/"
-      },
-      {
-        "name": "Cockroach Labs",
-        "desc": "Build what you dream.",
-        "url": "https://cockroachlabs.cloud/"
+        "url": "https://cockroachlabs.cloud/",
+        "tags": [
+          "Cloud",
+          "Database"
+        ]
       },
       {
         "name": "Railway",
         "desc": "Railway is a cloud platform for deploying and managing backend services, such as APIs and databases.",
-        "url": "https://railway.app/"
+        "url": "https://railway.app/",
+        "tags": [
+          "Cloud",
+          "Deployment",
+          "Hosting"
+        ]
       },
       {
         "name": "Render",
         "desc": "Render.com is a cloud platform for hosting and scaling web applications.",
-        "url": "https://dashboard.render.com/"
+        "url": "https://dashboard.render.com/",
+        "tags": [
+          "Cloud",
+          "Hosting",
+          "Scaling"
+        ]
       }
     ]
   },
@@ -198,27 +342,38 @@
       {
         "name": "TJUT Ehall",
         "desc": "My college's ehall",
-        "url": "http://ehall.tjut.edu.cn/new/index.html"
+        "url": "http://ehall.tjut.edu.cn/new/index.html",
+        "tags": [
+          "College",
+          "Portal"
+        ]
       },
       {
         "name": "语言学习网站",
-        "desc": "高效的在线学习各种语言，成为语言大师吧！",
-        "url": "https://www.loecsen.com/zh/"
+        "desc": "高效的在线学习各种语言,成为语言大师吧!",
+        "url": "https://www.loecsen.com/zh/",
+        "tags": [
+          "Language",
+          "Learning"
+        ]
       },
       {
         "name": "Draw.io",
         "desc": "Draw diagrams!",
-        "url": "https://draw.io/"
+        "url": "https://draw.io/",
+        "tags": [
+          "Diagrams",
+          "Drawing"
+        ]
       },
       {
         "name": "Excalidraw",
         "desc": "Hand-draw look and feel : diagram tool",
-        "url": "http://excalidraw.com/"
-      },
-      {
-        "name": "PanDownload(MCHZB)",
-        "desc": "A site powered by baiduwp-php, and MCHZB",
-        "url": "https://pan.mchzb.com/"
+        "url": "http://excalidraw.com/",
+        "tags": [
+          "Diagrams",
+          "Drawing"
+        ]
       }
     ]
   },
@@ -227,30 +382,41 @@
     "tags": [],
     "sites": [
       {
-        "name": "MyFreeMP3",
-        "desc": "Free mp3 toolbox!",
-        "url": "https://tool.liumingye.cn/music/#/"
-      },
-      {
         "name": "Z-Helper",
         "desc": "zhelper search!",
-        "url": "https://search.zhelper.net"
+        "url": "https://search.zhelper.net",
+        "tags": [
+          "Search",
+          "Books"
+        ]
       },
       {
         "name": "ZLib",
         "desc": "Search your book with z-lib",
-        "url": "https://zlib.app/"
+        "url": "https://zlib.app/",
+        "tags": [
+          "Books",
+          "Search"
+        ]
       },
       {
         "name": "顽狗音乐",
-        "desc": "免费音乐网站！",
-        "url": "https://music.dogged.cn/"
+        "desc": "免费音乐网站!",
+        "url": "https://music.dogged.cn/",
+        "tags": [
+          "Music",
+          "Free"
+        ]
       }
     ]
   },
   {
     "category": "Just For Fun",
-    "tags": ["sex", "4fun", "enjoy"],
+    "tags": [
+      "sex",
+      "4fun",
+      "enjoy"
+    ],
     "sites": [
       {
         "name": "赫尔:Just4Fun",

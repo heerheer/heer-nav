@@ -16,12 +16,12 @@
                 <lazy-img
                   class="w-14"
                   :src="
-                    'http://www.google.com/s2/favicons?sz=64&domain=' + site.url
+                    'https://www.google.com/s2/favicons?sz=64&domain=' + site.url
                   "
                 >
                 </lazy-img>
                 <div class="ml-3.5 h-full flex-1">
-                  <div class="flex flex-col space-start">
+                  <div class="flex flex-col space-start gap-1">
                     <div class="flex-1 flex justify-between items-center">
                       <div class="text-indigo-700">{{ site.name }}</div>
                       <div
@@ -35,6 +35,11 @@
                       class="text-indigo-700 text-xs opacity-60 overflow-hidden overflow-ellipsis"
                     >
                       {{ site.desc }}
+                    </div>
+                    <div class="text-xs flex gap-1.5">
+                      <div v-for="tag in site.tags" class="rounded bg-gray-200 py-0.5 px-1 min-w-[1.5rem] text-center">
+                        {{tag}}
+                      </div>
                     </div>
                   </div>
                 </div>

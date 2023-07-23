@@ -11,6 +11,7 @@ interface NavSite {
   type?: "website";
   encrypted?: boolean;
   encrypted_url?: string;
+  tags?:string[]
 }
 
 export type { NavCategory, NavSite };
