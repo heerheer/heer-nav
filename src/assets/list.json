@@ -251,6 +251,16 @@
           "Style Guide",
           "Coding"
         ]
+      },
+      {
+        "name": "Quick.Js",
+        "desc": "Easy db library for js or ts.",
+        "url": "https://quickdb.js.org/en/introduction/",
+        "tags": [
+          "Database",
+          "npm",
+          "TypeScript"
+        ]
       }
     ]
   },
