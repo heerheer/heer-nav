@@ -30,8 +30,8 @@
       },
       {
         "name": "BAI Chat",
-        "desc": "Free Website powered by GPT-3.5 API.",
-        "url": "https://chat.theb.ai/",
+        "desc": "BAI 集成多个模型与功能的在线AI对话工具",
+        "url": "https://beta.theb.ai/",
         "tags": [
           "AI",
           "Chat"
@@ -44,14 +44,6 @@
         "tags": [
           "AI",
           "Chat"
-        ]
-      },
-      {
-        "name": "Weekly Report",
-        "desc": "Generate weekly report with simple description.",
-        "url": "https://weeklyreport.avemaria.fun/zh",
-        "tags": [
-          "周报"
         ]
       },
       {
@@ -76,7 +68,7 @@
       },
       {
         "name": "Leonardo.ai",
-        "desc": "Leonardo.ai!",
+        "desc": "使用AI生成各式各样的图形，艺术",
         "url": "https://app.leonardo.ai/",
         "tags": [
           "AI",
@@ -104,7 +96,7 @@
     ]
   },
   {
-    "category": "Frontend UI and Design",
+    "category": "UI and Design",
     "tags": [
       "UI",
       "前端",
@@ -186,6 +178,15 @@
         ]
       },
       {
+        "name": "Realtime Colors",
+        "desc": "搭配想要的颜色",
+        "url": "https://www.realtimecolors.com/",
+        "tags": [
+          "Color",
+          "UI"
+        ]
+      },
+      {
         "name": "Easing Functions",
         "desc": "选择缓动函数动画、",
         "url": "https://easings.net/",
@@ -197,7 +198,7 @@
     ]
   },
   {
-    "category": "Develop Utilities",
+    "category": "Developer Tools",
     "tags": [],
     "sites": [
       {
@@ -227,6 +228,14 @@
           "AI",
           "Developer"
         ]
+      },{
+        "name":"AI Code Tool",
+        "desc":"Code Converter AI | Convert Code or Natural Language To Programming Language Code",
+        "url":"https://www.aicodeconvert.com/",
+        "tags":[
+            "Coding",
+            "AI"
+        ]
       }
     ]
   },
@@ -234,6 +243,15 @@
     "category": "Programming",
     "tags": [],
     "sites": [
+      {
+        "url": "https://www.hello-algo.com/",
+        "name": "Hello Algo",
+        "desc": "快速入门算法",
+        "tags": [
+          "Algorithm",
+          "Coding"
+        ]
+      },
       {
         "name": "Deno",
         "desc": "The easiest, most secure JavaScript runtime.",
@@ -316,7 +334,7 @@
       },
       {
         "name": "Cockroach Labs",
-        "desc": "Build what you dream.",
+        "desc": "Build what you dream. 一个免费的数据库平台",
         "url": "https://cockroachlabs.cloud/",
         "tags": [
           "Cloud",
@@ -342,22 +360,22 @@
           "Hosting",
           "Scaling"
         ]
+      },{
+        "url": "alwaysdata.com",
+        "name": "AlwaysData",
+        "desc": "AlwaysData is a cloud platform for hosting and scaling web applications.",
+        "tags": [
+          "Cloud",
+          "Hosting",
+          "Scaling"
+        ]
       }
     ]
   },
   {
-    "category": "Work and Study Tool",
+    "category": "Work and Study Tools",
     "tags": [],
     "sites": [
-      {
-        "name": "TJUT Ehall",
-        "desc": "My college's ehall",
-        "url": "http://ehall.tjut.edu.cn/new/index.html",
-        "tags": [
-          "College",
-          "Portal"
-        ]
-      },
       {
         "name": "语言学习网站",
         "desc": "高效的在线学习各种语言,成为语言大师吧!",
@@ -369,7 +387,7 @@
       },
       {
         "name": "Draw.io",
-        "desc": "Draw diagrams!",
+        "desc": "Draw diagrams!绘制各类表格、图案!",
         "url": "https://draw.io/",
         "tags": [
           "Diagrams",
@@ -378,7 +396,7 @@
       },
       {
         "name": "Excalidraw",
-        "desc": "Hand-draw look and feel : diagram tool",
+        "desc": "手绘风格流程图 Hand-draw look and feel : diagram tool",
         "url": "http://excalidraw.com/",
         "tags": [
           "Diagrams",
